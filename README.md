@@ -1,2 +1,2 @@
 # SpringBootFramework
- Labotary works (Java)
+Introduction in course Framework
